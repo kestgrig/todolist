@@ -1,0 +1,18 @@
+.add-button {
+    gap: 10px;
+    margin: 10px;
+    background-color: red;
+    padding: 10px 15px;
+}
+
+.text {
+    padding: 10px;
+    
+}
+.delete-button {
+    background-color: lightyellow
+}
+.move-button {
+    background-color: rgba(0, 255, 157, 0.411);
+}
+
